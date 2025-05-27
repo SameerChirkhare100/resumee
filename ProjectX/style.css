@@ -1,0 +1,77 @@
+.arr-lig{
+  text-align: center;
+}
+#selector-demo{
+  color: green;
+}
+li[value="4"]{
+  color: blue;
+}
+.note{
+  font-size: 20px;
+}
+#first{
+  background: cadetblue;
+  border: 10px solid black;
+  height: 300px;
+  width: 200px;
+  padding: 20px ;
+  text-align: center;
+
+
+}
+#second{
+  background-color: gold;
+  border-width: 20px ;
+  border: solid black;
+  margin-left: 260px;
+
+}
+#third{
+  background-color: indianred;
+  border:10px solid black;
+  margin-left: 41px;
+}
+.padd1{
+height: 200px;
+width: 200px;
+}
+#nor{
+  margin: 0;
+}
+h1,h2{
+  color: blueviolet;;
+}
+.box > p,ul{
+  color: blueviolet;
+}
+li#hello.bee.kee{
+  color: gold;
+}
+
+
+.jox li{
+  color: blue;
+}
+
+.jox #ted.bet.tek{
+  color: green;
+}
+.mongo{
+background-color:blue;
+height: 300px;
+width: 500px;
+position: relative;
+top: 200px;
+left:200px;
+}
+.apple{
+  background-color: red;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top:150px;
+  left:250px;
+
+}

@@ -1,0 +1,115 @@
+.la-red1{
+  height: 130px;
+  width: 700px;
+  background-color: red;
+  margin-bottom: 0;
+}
+.la-violet{
+  height: 250px;
+  width: 700px;
+  background-color: #000099;
+  margin-top: 0;
+
+}
+#hh{
+  color: white;
+  text-align: center;
+  font-size:50px;
+}
+.la-red2{
+  height: 130px;
+  width: 700px;
+  background-color: red;
+}
+.la-circle{
+  background-color: white;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 255px;
+
+
+}
+h1{
+  text-align: center;
+  font-size:50px;
+}
+
+.flag{
+  height: 600px;
+  width: 800px;
+  background-color: red;
+  position: relative;
+  margin-top:50px;
+}
+.Innerflag{
+  background-color: #000099;
+  height: 300px;
+  width: 800px;
+  margin-top: 130px;
+  position: absolute;
+}
+.flagcircle{
+  background-color: white;
+  border-radius: 50%;
+  height: 260px;
+  width: 280px;
+  left: 260px;
+ position: relative;
+
+}
+
+.red{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  display:block;
+}
+.green{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+.blue{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  display:block;
+}
+.dot{
+  color: white;
+  font-size: 15px;
+}
+.float1{
+  background-color:#00ff00;
+  float: left;
+  width: 600px;
+  height: 350px
+
+}
+.float2{
+  background-color: #ff9966;
+  float: right;
+  width: 600px;
+  height: 350px;
+
+}
+.around{
+  font-size: 20px;
+}
+#f-img{
+  float: left;
+  width: 200px;
+  height: 180px;
+}
+#f-img2{
+  float: left;
+  width: 200px;
+  height: 180px;
+}
+footer{
+  background-color: purple;
+  clear: both;
+}
